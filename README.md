@@ -1,5 +1,7 @@
 # simple-html-app
 
+git clone https://github.com/MANIKANDAN242221/simple-html-app.git
+
 cd  sample-html-docker-application
 
 mvn clean install
